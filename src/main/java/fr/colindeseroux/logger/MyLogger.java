@@ -1,4 +1,4 @@
-package fr.phenix333.logger;
+package fr.colindeseroux.logger;
 
 import java.io.Serializable;
 
