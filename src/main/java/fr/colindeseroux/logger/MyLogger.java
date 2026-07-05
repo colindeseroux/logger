@@ -17,7 +17,7 @@ import org.apache.logging.log4j.util.Supplier;
  * Custom Logger interface with convenience methods for the FATAL, ERROR, WARN,
  * INFO, DEBUG and FUNCTION custom log levels.
  * 
- * @author Colin de Seroux
+ * @author Colin de Seroux alias Phenix333
  */
 public final class MyLogger implements Serializable {
 
